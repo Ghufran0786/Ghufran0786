@@ -153,10 +153,10 @@ const ghufran: Developer = {
 
 <p align="center">
   <a href="https://github.com/Ghufran0786">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghufran0786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F0524&title_color=FF006E&icon_color=B026FF&text_color=00F5FF&ring_color=FF006E" alt="GitHub Stats" />
+    <img height="180em" src="https://readme-stats-fast.vercel.app/api?username=Ghufran0786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F0524&title_color=FF006E&icon_color=B026FF&text_color=00F5FF&ring_color=FF006E&cache_seconds=86400" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Ghufran0786">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghufran0786&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=FF006E&text_color=00F5FF&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Ghufran0786&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=FF006E&text_color=00F5FF&langs_count=8&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
@@ -195,7 +195,11 @@ const ghufran: Developer = {
 <h2 align="center">🐍 Watch My Contributions Get Devoured</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake.svg" />
+    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake-dark.svg" />
+  </picture>
 </p>
 
 ---
