@@ -56,24 +56,19 @@ const ghufran: Developer = {
     askMeAbout: ["React", "Next.js", "Node.js", "TypeScript"],
     funFact: "I can center a div on the first try 😎"
 };
-```
 
-- 🔭 Currently shipping **full-stack web applications**
-- 🌱 Deep-diving into **Cloud, System Design & DevOps**
-- 👯 Open to collaborating on **innovative open-source projects**
-- 💬 Ask me about **React, Next.js, Node.js & TypeScript**
-- ⚡ Fun fact: **I debug with `console.log` and I'm not ashamed of it**
+🔭 Currently shipping full-stack web applications
+🌱 Deep-diving into Cloud, System Design & DevOps
+👯 Open to collaborating on innovative open-source projects
+💬 Ask me about React, Next.js, Node.js & TypeScript
+⚡ Fun fact: I debug with console.log and I'm not ashamed of it
 
 <br clear="both" />
-
----
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ✦ CONNECT WITH ME ✦                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <h2 align="center">🌐 Let's Connect</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ghufran-ahmad-khan-85ab921a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23FF006E.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -86,114 +81,10 @@ const ghufran: Developer = {
   </a>
 </p>
 
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ TECH STACK ✦                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">🛠️ My Arsenal</h2>
-
-<h3 align="center">💻 Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,python&theme=dark" alt="Languages" />
-  </a>
-</p>
-
-<h3 align="center">🎨 Frontend</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,angular,redux,tailwind,vite,html,css&theme=dark" alt="Frontend" />
-  </a>
-</p>
-
-<h3 align="center">⚙️ Backend & Runtime</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase&theme=dark" alt="Backend" />
-  </a>
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres&theme=dark" alt="Databases" />
-  </a>
-</p>
-
-<h3 align="center">☁️ Cloud & DevOps</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,netlify,vercel,githubactions&theme=dark" alt="Cloud & DevOps" />
-  </a>
-</p>
-
-<h3 align="center">🎬 Design & Creative</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender,ps,pr,ae,ai&theme=dark" alt="Design" />
-  </a>
-</p>
-
-<h3 align="center">🧰 Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,unreal&theme=dark" alt="Tools" />
-  </a>
-</p>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ GITHUB STATS ✦                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">📊 GitHub Battlestation</h2>
-
-<p align="center">
-  <a href="https://github.com/Ghufran0786">
-    <img height="180em" src="https://readme-stats-fast.vercel.app/api?username=Ghufran0786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F0524&title_color=FF006E&icon_color=B026FF&text_color=00F5FF&ring_color=FF006E&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Ghufran0786">
-    <img height="180em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Ghufran0786&layout=compact&theme=radical&hide_border=true&bg_color=0F0524&title_color=FF006E&text_color=00F5FF&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ghufran0786">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghufran0786&theme=radical&hide_border=true&background=0F0524&stroke=FF006E&ring=FF006E&fire=B026FF&currStreakNum=00F5FF&currStreakLabel=FF006E&sideNums=00F5FF&sideLabels=B026FF&dates=ffffff" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ghufran0786">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghufran0786&bg_color=0F0524&color=FF006E&line=B026FF&point=00F5FF&area=true&area_color=FF006E&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-  </a>
-</p>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ TROPHIES ✦                                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">🏆 Trophy Wall</h2>
-
-<p align="center">
-  <a href="https://github.com/Ghufran0786">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ghufran0786&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-  </a>
-</p>
-
----
-
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ✦ SNAKE ANIMATION ✦                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <h2 align="center">🐍 Watch My Contributions Get Devoured</h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake-dark.svg" />
@@ -202,30 +93,21 @@ const ghufran: Developer = {
   </picture>
 </p>
 
----
-
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ✦ RANDOM DEV QUOTE ✦                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <h2 align="center">💭 Quote of the Day</h2>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
----
-
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ✦ FOOTER ✦                                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/⭐%20If%20you%20like%20what%20you%20see,%20star%20my%20repos!-FF006E?style=for-the-badge&labelColor=B026FF" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by!%20Have%20an%20amazing%20day%20🚀-00F5FF?style=for-the-badge&labelColor=0F0524" />
 </p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" />
