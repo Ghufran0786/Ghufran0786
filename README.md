@@ -56,19 +56,24 @@ const ghufran: Developer = {
     askMeAbout: ["React", "Next.js", "Node.js", "TypeScript"],
     funFact: "I can center a div on the first try 😎"
 };
+```
 
-🔭 Currently shipping full-stack web applications
-🌱 Deep-diving into Cloud, System Design & DevOps
-👯 Open to collaborating on innovative open-source projects
-💬 Ask me about React, Next.js, Node.js & TypeScript
-⚡ Fun fact: I debug with console.log and I'm not ashamed of it
+- 🔭 Currently shipping **full-stack web applications**
+- 🌱 Deep-diving into **Cloud, System Design & DevOps**
+- 👯 Open to collaborating on **innovative open-source projects**
+- 💬 Ask me about **React, Next.js, Node.js & TypeScript**
+- ⚡ Fun fact: **I debug with `console.log` and I'm not ashamed of it**
 
 <br clear="both" />
+
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ✦ CONNECT WITH ME ✦                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <h2 align="center">🌐 Let's Connect</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ghufran-ahmad-khan-85ab921a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23FF006E.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -81,10 +86,14 @@ const ghufran: Developer = {
   </a>
 </p>
 
+---
+
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ✦ SNAKE ANIMATION ✦                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <h2 align="center">🐍 Watch My Contributions Get Devoured</h2>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake-dark.svg" />
@@ -93,21 +102,30 @@ const ghufran: Developer = {
   </picture>
 </p>
 
+---
+
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ✦ RANDOM DEV QUOTE ✦                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <h2 align="center">💭 Quote of the Day</h2>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
+---
+
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  ✦ FOOTER ✦                                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/⭐%20If%20you%20like%20what%20you%20see,%20star%20my%20repos!-FF006E?style=for-the-badge&labelColor=B026FF" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by!%20Have%20an%20amazing%20day%20🚀-00F5FF?style=for-the-badge&labelColor=0F0524" />
 </p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" />
