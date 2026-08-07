@@ -34,7 +34,7 @@ const ghufran = {
 };
 ```
 
-- I build backend services **and own the delivery path behind them** — pipelines, containers, cloud, monitoring, incident response.
+- I build backend services **and own the delivery path behind them** - pipelines, containers, cloud, monitoring, incident response.
 - At **LTIMindtree**: cut deployment time 40%, manual release effort ~25% and production incidents 30% across Azure DevOps / GitHub Actions pipelines.
 - Services running at **10,000+ requests/day** against a **99.5% uptime SLA**.
 - Two live products of my own in production — both linked above.
