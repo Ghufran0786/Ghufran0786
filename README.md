@@ -62,7 +62,7 @@ Production data platform serving real-time data across 2,200+ records.
 - Redis cache-aside — ~90% less PostgreSQL load, sub-200ms API responses
 - 8-table normalized schema, hot-path queries under 50ms
 
-`TypeScript` `Node.js` `PostgreSQL` `Redis` `Cloudflare Workers` `Vercel`
+`TypeScript` `CI/CD` `Node.js` `PostgreSQL` `Redis` `Cloudflare Workers` `Vercel` 
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ Event-driven analytical platform ingesting 50+ upstream sources.
 - RAG pipeline over an LLM, 95%+ classification accuracy
 - Server-Sent Events for real-time push to connected clients
 
-`Python` `PostgreSQL` `TypeScript` `Node.js` `Supabase` `Cloudflare Workers`
+`Python` `DevOps` `CI/CD` `PostgreSQL` `TypeScript` `Node.js` `Supabase` `Cloudflare Workers`
 
 </td>
 </tr>
