@@ -1,131 +1,74 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ ANIMATED NEON HEADER ✦                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+# Ghufran Ahmad Khan
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Ghufran%20Ahmad%20Khan&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%7C%20Crafting%20Digital%20Magic%20%E2%9A%A1&descSize=18&descAlignY=58" />
+**Full Stack Developer · DevOps & Cloud** — I build web applications end to end and ship them with containers, CI/CD and cloud infrastructure.
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ NEON TYPING ANIMATION ✦                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<p align="center">
-  <a href="https://github.com/Ghufran0786">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF006E&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Hey+there!+I'm+Ghufran+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;React+%E2%9A%A1+Next.js+%E2%9A%A1+Node.js+%E2%9A%A1+TypeScript;Turning+caffeine+into+code+%E2%98%95+%E2%9E%9C+%F0%9F%9A%80;Open+to+exciting+collaborations!+%F0%9F%8C%9F" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ NEON STAT BADGES ✦                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<p align="center">
-  <a href="https://github.com/Ghufran0786">
-    <img src="https://komarev.com/ghpvc/?username=Ghufran0786&label=PROFILE+VIEWS&color=ff006e&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Ghufran0786?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ghufran0786?label=FOLLOWERS&style=for-the-badge&color=b026ff&labelColor=1a0033&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Ghufran0786?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Ghufran0786?label=STARS&style=for-the-badge&color=00f5ff&labelColor=001a1a&logo=github" alt="GitHub Stars" />
-  </a>
-</p>
-
-<br />
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ ABOUT ME ✦                                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  &nbsp; About Me &nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h2>
-
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-```typescript
-const ghufran: Developer = {
-    name: "Ghufran Ahmad Khan",
-    role: "Full Stack Developer",
-    location: "🌍 India",
-    languages: ["JavaScript", "TypeScript", "Java", "Python", "C++"],
-    currentlyBuilding: "Scalable Web Applications",
-    learning: ["Cloud Architecture", "System Design", "DevOps"],
-    loves: ["Clean Code", "Coffee ☕", "Solving Hard Problems"],
-    askMeAbout: ["React", "Next.js", "Node.js", "TypeScript"],
-    funFact: "I can center a div on the first try 😎"
-};
-```
-
-- 🔭 Currently shipping **full-stack web applications**
-- 🌱 Deep-diving into **Cloud, System Design & DevOps**
-- 👯 Open to collaborating on **innovative open-source projects**
-- 💬 Ask me about **React, Next.js, Node.js & TypeScript**
-- ⚡ Fun fact: **I debug with `console.log` and I'm not ashamed of it**
-
-<br clear="both" />
+India · [LinkedIn](https://www.linkedin.com/in/ghufran-ahmad-khan-85ab921a8/) · [Email](mailto:786gufranahmadkhan@gmail.com)
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ CONNECT WITH ME ✦                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+## About
 
-<h2 align="center">🌐 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ghufran-ahmad-khan-85ab921a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23FF006E.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:786gufranahmadkhan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23B026FF.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Ghufran0786" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2300F5FF.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  </a>
-</p>
+- Building full-stack web apps with **React, Next.js, Node.js and TypeScript**.
+- Moving into **DevOps**: containers, CI/CD pipelines, Linux and cloud deployments.
+- Learning **system design** — writing services that are simple to deploy, observe and run.
+- Open to collaborating on open-source projects and to full-stack / DevOps-leaning work.
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ SNAKE ANIMATION ✦                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+## Tech Stack
 
-<h2 align="center">🐍 Watch My Contributions Get Devoured</h2>
+<!-- PRUNE THIS TABLE: delete anything you haven't actually used on a real project.
+     A short, believable list beats a long one. -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake.svg" />
-    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ RANDOM DEV QUOTE ✦                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">💭 Quote of the Day</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+| Area | Tools |
+| --- | --- |
+| **Languages** | TypeScript · JavaScript · Java · Python · C++ |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Backend** | Node.js · Express · REST APIs |
+| **Databases** | PostgreSQL · MongoDB |
+| **DevOps & Cloud** | Docker · Git · GitHub Actions · Linux · Nginx · AWS |
+| **Currently learning** | Kubernetes · Terraform · CI/CD at scale · System design |
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ✦ FOOTER ✦                                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+## Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐%20If%20you%20like%20what%20you%20see,%20star%20my%20repos!-FF006E?style=for-the-badge&labelColor=B026FF" />
-</p>
+<!-- REPLACE THESE THREE ROWS with real repos. This is the most valuable section
+     on the page — an empty placeholder is worse than no section at all. -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by!%20Have%20an%20amazing%20day%20🚀-00F5FF?style=for-the-badge&labelColor=0F0524" />
-</p>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [project-one](https://github.com/Ghufran0786/project-one) | One line on what it does and who it's for. | Next.js · Node.js · PostgreSQL |
+| [project-two](https://github.com/Ghufran0786/project-two) | One line on the problem it solves. | React · Express · MongoDB |
+| [project-three](https://github.com/Ghufran0786/project-three) | One line — mention Docker / CI if it applies. | Docker · GitHub Actions |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" />
+---
+
+## Most Used Languages
+
+<!-- OPTIONAL: rendered by a free public service that occasionally rate-limits.
+     If it ever shows "Something went wrong", just delete this block. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghufran0786&layout=compact&hide_border=true&hide_title=true&langs_count=6&cache_seconds=86400&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghufran0786&layout=compact&hide_border=true&hide_title=true&langs_count=6&cache_seconds=86400&theme=graywhite" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghufran0786&layout=compact&hide_border=true&hide_title=true&langs_count=6&cache_seconds=86400&theme=graywhite" width="400" />
+</picture>
+
+---
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake.svg" />
+  <img alt="Snake animation of my GitHub contribution graph" src="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake-dark.svg" />
+</picture>
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghufran-ahmad-khan-85ab921a8/)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:786gufranahmadkhan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ghufran0786)
