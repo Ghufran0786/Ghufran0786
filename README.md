@@ -18,7 +18,7 @@
 
 ---
 
-## About
+## 👋 About
 
 <img align="right" width="360" alt="Developer at work" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
@@ -43,16 +43,18 @@ const ghufran = {
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+> [!NOTE]
+> Both are live, closed-source products that I designed, built and operate. Happy to walk through the architecture, schema or pipelines on request.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Cinema Collections
+### 🎬 Cinema Collections
 
-[Live site](https://www.cinemacollections.com/) &nbsp;·&nbsp; [Source](https://github.com/Ghufran0786/REPO-NAME)
-<!-- TODO: replace REPO-NAME with the real repo -->
+[![Visit cinemacollections.com](https://img.shields.io/badge/Visit-cinemacollections.com-2F6F4E?style=flat-square&labelColor=0D1117)](https://www.cinemacollections.com/)
 
 Production data platform serving real-time data across 2,200+ records.
 
@@ -65,10 +67,9 @@ Production data platform serving real-time data across 2,200+ records.
 </td>
 <td width="50%" valign="top">
 
-### WarSignal
+### 📡 WarSignal
 
-[Live site](https://www.warsignal.live/) &nbsp;·&nbsp; [Source](https://github.com/Ghufran0786/REPO-NAME)
-<!-- TODO: replace REPO-NAME with the real repo -->
+[![Visit warsignal.live](https://img.shields.io/badge/Visit-warsignal.live-1F3A5F?style=flat-square&labelColor=0D1117)](https://www.warsignal.live/)
 
 Event-driven analytical platform ingesting 50+ upstream sources.
 
@@ -84,7 +85,7 @@ Event-driven analytical platform ingesting 50+ upstream sources.
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 | | |
 | --- | --- |
@@ -96,7 +97,7 @@ Event-driven analytical platform ingesting 50+ upstream sources.
 
 ---
 
-## Most Used Languages
+## 📊 Most Used Languages
 
 <!-- OPTIONAL: free public service, occasionally rate-limited.
      If it ever shows "Something went wrong", delete this block. -->
@@ -109,7 +110,7 @@ Event-driven analytical platform ingesting 50+ upstream sources.
 
 ---
 
-## Contribution Graph
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghufran0786/Ghufran0786/output/snake-dark.svg" />
@@ -119,7 +120,7 @@ Event-driven analytical platform ingesting 50+ upstream sources.
 
 ---
 
-## Contact
+## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghufran-ahmad-khan-85ab921a8/)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:786gufranahmadkhan@gmail.com)
