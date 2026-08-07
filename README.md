@@ -97,18 +97,6 @@ Event-driven analytical platform ingesting 50+ upstream sources.
 
 ---
 
-## 📊 Most Used Languages
-
-<!-- OPTIONAL: free public service, occasionally rate-limited.
-     If it ever shows "Something went wrong", delete this block. -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghufran0786&layout=compact&hide_border=true&hide_title=true&langs_count=6&cache_seconds=86400&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghufran0786&layout=compact&hide_border=true&hide_title=true&langs_count=6&cache_seconds=86400&theme=graywhite" />
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghufran0786&layout=compact&hide_border=true&hide_title=true&langs_count=6&cache_seconds=86400&theme=graywhite" width="400" />
-</picture>
-
----
 
 ## 🐍 Contribution Graph
 
