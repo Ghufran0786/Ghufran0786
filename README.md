@@ -59,7 +59,7 @@ const ghufran = {
 Production data platform serving real-time data across 2,200+ records.
 
 - 20-minute automated ingestion pipeline, 500+ API calls/hour, unattended on serverless
-- Redis cache-aside — ~90% less PostgreSQL load, sub-200ms API responses
+- Redis cache-aside - ~90% less PostgreSQL load, sub-200ms API responses
 - 8-table normalized schema, hot-path queries under 50ms
 
 `TypeScript` `CI/CD` `Node.js` `PostgreSQL` `Redis` `Cloudflare Workers` `Vercel` 
